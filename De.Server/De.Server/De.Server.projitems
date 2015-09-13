@@ -9,5 +9,6 @@
     <Import_RootNamespace>De.Server</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Server.cs" />
   </ItemGroup>
 </Project>
